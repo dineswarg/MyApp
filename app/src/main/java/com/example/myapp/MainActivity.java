@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("main activity","................");
 
-        Log.e("main activity","..code added.................");
+        Log.e("main activity","..code added.......to new branch..............");
 
     }
 }
