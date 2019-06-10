@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         Log.e("main activity","................");
+
+        Log.e("main activity","..code added.................");
+
     }
 }
 
